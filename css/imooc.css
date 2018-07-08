@@ -569,7 +569,7 @@ html{
     background-repeat: no-repeat;
 }
 .shizhantuijian h3 i{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/8.PNG);
+	background-image: url(../img/8.PNG);
 }
 .fifth-column-show-title .fifth-column-show-title-pic1{
 	left: 415px;
@@ -619,7 +619,7 @@ html{
     border-radius: 10px;
 }
 .one{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/9.jpg);
+	background-image: url(../img/9.jpg);
 }
 .fifth-column-show-row label{
 	color: white;
@@ -673,16 +673,16 @@ html{
 	color: #251b1b;
 }
 .two{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/10.jpg);
+    background-image: url(../img/10.jpg);
 }
 .third{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/11.jpg);
+    background-image: url(../img/11.jpg);
 }
 .fourth{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/12.jpg);
+    background-image: url(../img/12.jpg);
 }
 .fifth{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/13.jpg);
+    background-image: url(../img/13.jpg);
 }
 .fifthlabel{
 	left: 90px;
@@ -693,45 +693,45 @@ html{
 	margin-left: -0px;
 }*/
 span i{
-	background-image: url(D:/GitHub/webpage/组件/img/16.png);
+	background-image: url(../img/16.png);
 	background-size: 100%;
 }
 /*新上好课*/
 .six{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/17.jpg);
+	background-image: url(../img/17.jpg);
 }
 .sixlabel{
 	left: 50px;
 }
 .seven{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/18.jpg);
+	background-image: url(../img/18.jpg);
 }
 .sevenlabel{
 	left: 85px;
 }
 .eight{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/19.jpg);
+	background-image: url(../img/19.jpg);
 }
 .nine{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/20.jpg);
+	background-image: url(../img/20.jpg);
 }
 .ten{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/21.jpg);
+	background-image: url(../img/21.jpg);
 }
 .eleven{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/22.jpg);
+	background-image: url(../img/22.jpg);
 }
 .twelve{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/21.jpg);
+	background-image: url(../img/21.jpg);
 }
 .thirteen{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/22.jpg);
+	background-image: url(../img/22.jpg);
 }
 .fourteen{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/23.jpg);
+	background-image: url(../img/23.jpg);
 }
 .fifteen{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/24.jpg);
+	background-image: url(../img/24.jpg);
 }
 .fifteenlabel{
     left: 60px;
@@ -747,7 +747,7 @@ span i{
 	top: 90px;
 }
 .xinshanghaoke h3 i{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/14.PNG);
+	background-image: url(../img/14.PNG);
 }
 .xinshanghaoke .fifth-column-show-title-pic2{
 	transform:rotate(180deg);
@@ -758,7 +758,7 @@ span i{
 /*新手入门*/
 /*标题两边图片*/
 .xinshourumen h3 i{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/31.PNG);
+	background-image: url(../img/31.PNG);
 }
 .xinshourumen .fifth-column-show-title-pic2{
 	transform:rotate(180deg);
@@ -800,34 +800,34 @@ span i{
 }
 /*新手入门底下两排内容换图片*/
 .sixteen{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/32.jpg);
+	background-image: url(../img/32.jpg);
 }
 .seventeen{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/33.jpg);
+	background-image: url(../img/33.jpg);
 }
 .eighteen{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/34.jpg);
+	background-image: url(../img/34.jpg);
 }
 .nineteen{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/35.jpg);
+	background-image: url(../img/35.jpg);
 }
 .twenty{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/36.jpg);
+	background-image: url(../img/36.jpg);
 }
 .twentyone{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/37.jpg);
+	background-image: url(../img/37.jpg);
 }
 .twentytwo{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/38.jpg);
+	background-image: url(../img/38.jpg);
 }
 .twentythree{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/39.jpg);
+	background-image: url(../img/39.jpg);
 }
 .twentyfour{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/40.jpg);
+	background-image: url(../img/40.jpg);
 }
 .twentyfive{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/41.jpg);
+	background-image: url(../img/41.jpg);
 }
 /*技能提升*/
 .fifth-column-show-title-warpper{
@@ -838,7 +838,7 @@ span i{
 }
 /*技能提升标题边图片*/
 .jinengtisheng h3 i{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/42.PNG);
+	background-image: url(../img/42.PNG);
 }
 .jinengtisheng .fifth-column-show-title-pic2{
 	transform:rotate(180deg);
@@ -846,14 +846,14 @@ span i{
 /*精彩手记及猿问*/
 /*标题两边图片*/
 .jingcaishoujijiyuanwen h3 i{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/43.PNG);
+	background-image: url(../img/43.PNG);
 
 }
 .jingcaishoujijiyuanwen .fifth-column-show-title-pic1{
     left: 360px;
 }
 .jingcaishoujijiyuanwen .fifth-column-show-title-pic2{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/44.PNG);
+	background-image: url(../img/44.PNG);
 /*    left: 490px;*/
 }
 .jingcaishoujijiyuanwen{
@@ -1073,13 +1073,13 @@ dl .titlebottom{
 	margin-top: 50px;
 }
 .mukejingyingjiangshi .fifth-column-show-title-pic1{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/icon.png);
+    background-image: url(../img/icon.png);
     background-position: center -631px;
     background-size: 100%;
     left: 360px;
 }
 .mukejingyingjiangshi .fifth-column-show-title-pic2{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/icon.png);
+	background-image: url(../img/icon.png);
     background-position: center -683px;
     background-size: 100%;
 /*    left: 490px;*/
@@ -1139,14 +1139,14 @@ dl .titlebottom{
 .mukejingyingjiangshi .fifth-column-show-column-top{
     width: 96px;
     height: 96px;
-    background-image: url(D:/GitHub/webpage/imooc.com/img/56.jpg);
+    background-image: url(../img/56.jpg);
     background-repeat: no-repeat;
     margin: auto auto;
     border-radius: 50%;
     margin-top: -30px;
 }
 .mukejingyingjiangshi .one{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/56.jpg);
+    background-image: url(../img/56.jpg);
 }
 .teachertitle{
 	font-size: 12px;
@@ -1166,28 +1166,28 @@ dl .titlebottom{
     margin-top: 10px;
 }
 .mukejingyingjiangshi .two{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/57.jpg);
+    background-image: url(../img/57.jpg);
 }
 .mukejingyingjiangshi .three{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/58.jpg);
+    background-image: url(../img/58.jpg);
 }
 .mukejingyingjiangshi .four{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/59.jpg);
+    background-image: url(../img/59.jpg);
 }
 .mukejingyingjiangshi .five{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/60.jpg);
+    background-image: url(../img/60.jpg);
 }
 .diaozhatianquanmingxing h3{
 	color: black;
 }
 .diaozhatianquanmingxing .fifth-column-show-title-pic1{
-    background-image: url(D:/GitHub/webpage/imooc.com/img/icon.png);
+    background-image: url(../img/icon.png);
     background-position: center -733px;
     background-size: 100%;
     left: 380px;
 }
 .diaozhatianquanmingxing .fifth-column-show-title-pic2{
-	background-image: url(D:/GitHub/webpage/imooc.com/img/icon.png);
+	background-image: url(../img/icon.png);
     background-position: center -733px;
     background-size: 100%;
 /*    left: 490px;*/
@@ -1238,7 +1238,7 @@ dl .titlebottom{
     height: 18px;
     top: 0px;
     background-size: 100%;
-    background: url(D:/GitHub/webpage/imooc.com/img/champion.png) no-repeat;
+    background: url(../img/champion.png) no-repeat;
 }
 .diaozhatianquanmingxingfirst dd .one{
 	background-size: 100%;
